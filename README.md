@@ -1,16 +1,32 @@
-## Hi there 👋
+<div id="header" align="center">
+  <div style="display: inline-block; vertical-align: middle; margin: 0 20px;">
+    <h1 style="font-size: 30px;">Gerardo Manzanarez-Villasana</h1>
+    <p style="font-size: 28px;"><strong>Glochids are forever </strong></p>
+  </div>
 
-<!--
-**Gerardo-Manzanarez-Villasana/Gerardo-Manzanarez-Villasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkZDRtZWw2bHQ5YWtoNGtyMHZwd3p3YTU4Y2JhbzdvMHdzendmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tIiSe654G9q1yJjvlN/giphy.gif" width="150"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardomv)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gerardo-Manzanarez-Villasana-2)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PemY0swAAAAJ&hl=es)
+
+## Acerca de este perfil
+
+
+## Skills
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+                  </p>
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)
+
+
