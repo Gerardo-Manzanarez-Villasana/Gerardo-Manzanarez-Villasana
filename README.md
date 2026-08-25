@@ -7,13 +7,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdkZDRtZWw2bHQ5YWtoNGtyMHZwd3p3YTU4Y2JhbzdvMHdzendmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tIiSe654G9q1yJjvlN/giphy.gif" width="150"/>
 </div>
 
+## Acerca de este perfil
 
 ## Links
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-%23F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gerardomv)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gerardo-Manzanarez-Villasana-2)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=PemY0swAAAAJ&hl=es)
-
-## Acerca de este perfil
 
 ## Skills
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
