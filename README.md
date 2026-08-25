@@ -22,9 +22,5 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-                  </p>
-
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)
