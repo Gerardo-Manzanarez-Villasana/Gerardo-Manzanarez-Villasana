@@ -29,4 +29,11 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Gerardo-Manzanarez-Villasana&langs_count=4&theme=dark)
 
+name: Sponsors introduction
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.sponsors.full.svg
+  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+  base: ""
+  plugin_sponsors: yes
 
