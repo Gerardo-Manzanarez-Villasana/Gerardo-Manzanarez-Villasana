@@ -15,11 +15,6 @@
 
 ## Acerca de este perfil
 
-
-## Papers
-<!-- PAPERS:START -->
-<!-- PAPERS:END -->
-
 ## Skills
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-%234285F4.svg?style=for-the-badge&logo=rstudioide&logoColor=white)
